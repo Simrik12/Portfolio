@@ -1,0 +1,55 @@
+body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNa1JGLFIadWHMQ0KvIuKWYGl-cxLwGlI2WA&s');
+    background-size: cover; 
+    background-position: center;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    font-family:'Times New Roman', Times, serif;
+    color: #f6f0f0
+}
+.welcome-section {
+    padding: 50px;
+    align-items: center;
+    display: flex;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.home-section {
+    padding: 50px;
+    text-align: center;
+}
+
+.navbar-nav{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    gap: 3rem;
+}
+
+.about-section{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.8;
+    
+}
+
+.image-section{
+    place-items: left;
+}
+
+.form-section {
+    max-width: 500px;   
+    margin: 50px auto; 
+    padding: 20px;
+    background-color: black;
+    border-radius: 10px;    
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: white;
+}
+
+.footer{
+    text-align: center;
+}
